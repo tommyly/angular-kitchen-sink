@@ -21,8 +21,12 @@
     "@angular/platform-browser": "^4.0.0",
     "@angular/platform-browser-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
+    "@ngrx/core": "^1.2.0",
+    "@ngrx/store": "^2.2.3",
     "core-js": "^2.4.1",
+    "microsoft-adaptivecards": "file:..\\AdaptiveCards\\source\\html\\renderer",
     "rxjs": "^5.1.0",
+    "uuid": "^3.1.0",
     "zone.js": "^0.8.4"
   },
   "devDependencies": {

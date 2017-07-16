@@ -1,0 +1,33 @@
+.container {
+    width: 700px;
+    margin: 0 auto;
+}
+
+.canvas {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    width: 700px;
+    height: 700px;
+    padding: 15px;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(230,223,230,1);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(230,223,230,1);
+    box-shadow: 10px 10px 5px 0px rgba(230,223,230,1);
+}
+
+.actions {
+    width: 400px;
+    border: 1px solid #cccccc;
+    height: 300px;
+    position: absolute;
+    top: 10px;
+    padding: 20px;
+}
+
+.item-panel {
+    width: 400px;
+    border: 1px solid #cccccc;
+    height: 500px;
+    position: absolute;
+    top: 360px;
+    padding: 20px;
+}
